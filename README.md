@@ -5,7 +5,7 @@ I made an electron-vue app that showcases the 'awwwest' sub r/aww, and also I fe
 
 ![finished app](https://github.com/vibalijoshi/pawwAww/blob/main/gif/reddit_gif.gif)
 
-## Technology used
+## I used--
 - [Vue CLI Plugin Electron Builder](https://nklayman.github.io/vue-cli-plugin-electron-builder/)
 - [Vuetify](https://vuetifyjs.com/en/) for the UI
 - [Vue Router](https://router.vuejs.org/)
